@@ -8,7 +8,7 @@ const int BUZZ_PIN = 3;
 const int FREQ     = 3030;
 const int DOT_MAX  = 200;
 const int CHAR_GAP = 600;
-const int WORD_GAP = 1500;
+const int WORD_GAP = 2000;
 
 struct MorseEntry { char letter; const char* code; };
 
