@@ -6,7 +6,7 @@ LiquidCrystal_I2C lcd(0x27, 16, 2);
 const int BTN_PIN  = 2;
 const int BUZZ_PIN = 3;
 const int FREQ     = 3030;
-const int DOT_MAX  = 200;
+const int DOT_MAX  = 230;
 const int CHAR_GAP = 600;
 const int WORD_GAP = 2000;
 
